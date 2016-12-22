@@ -80,5 +80,10 @@ font-size: 200%;
 }
 
 
+.panel-body{
+  display: flex;
+}
 
-
+.newScorediv{
+display: flex;
+}
