@@ -1,0 +1,84 @@
+
+
+#parent {
+  display: flex;
+}
+.counter {
+  width: 800px;
+  font-size: 200%;
+}
+#score{
+  flex: 10;
+  font-size:200%;
+   
+}
+
+#Hi{
+display: flex;	
+}
+
+.hiS{
+flex: 10;
+margin-top: 30px;
+margin-left: 30px;
+font-size: 200%;
+}
+
+.hi{
+width: 2000px;
+margin-top: 30px;
+margin-left: 30px;
+font-size: 200%;
+}
+
+.timeTag {
+  width: 800px;
+  font-size: 190%;
+  margin-top:  5px
+}
+.time{
+  flex: 1;
+  font-size:190%;
+  margin-left:300px;
+  margin-top:  5px 
+   
+}
+
+
+#parent{
+     margin-top: 300px;
+    margin-bottom: 100px;
+    margin-right: 550px;
+    margin-left: 350px;
+}
+
+#start{
+
+	margin-top:50px;
+    margin-bottom: 200px;
+    margin-right: 1000px;
+    margin-left: 550px;
+}
+
+#border{ 
+  /*padding-left: 0;
+   padding-right: 0;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   width: 800px;*/
+  /*  font-family: Helvetica, Arial, Sans-Serif;*/
+   font:italic bold 25px/30px Georgia, serif;
+   color: red ;
+}
+
+.center{
+    margin-top:200px;
+}
+.navi{
+    background-color:#696969;
+}
+
+
+
+
